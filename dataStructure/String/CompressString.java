@@ -1,3 +1,4 @@
+package dataStructure.String;
 import java.util.*;
 
 public class CompressString{

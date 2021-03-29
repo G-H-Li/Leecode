@@ -1,3 +1,5 @@
+package dataStructure.Array;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
@@ -37,6 +39,8 @@ public class ConcatArray{
             queryList.sort(Comparator.reverseOrder());
             result.add(queryList.get(sc.nextInt() -1));
         }
+
+        sc.close();
 
         for(int item: result){
             System.out.println(item);
