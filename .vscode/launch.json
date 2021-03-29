@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConcatArray",
+            "request": "launch",
+            "mainClass": "ConcatArray",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch JiuGongDiagram",
+            "request": "launch",
+            "mainClass": "JiuGongDiagram",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch OStack",
+            "request": "launch",
+            "mainClass": "OStack",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompressString",
+            "request": "launch",
+            "mainClass": "算法数据结构基础.字符串.CompressString",
+            "projectName": "Leecode_e0c12e81"
+        }
+    ]
+}
