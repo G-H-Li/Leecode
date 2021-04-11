@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "algorithm.sort.MergeSort",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectSort",
+            "request": "launch",
+            "mainClass": "algorithm.sort.SelectSort",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapSort",
+            "request": "launch",
+            "mainClass": "algorithm.sort.SwapSort",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertSort",
+            "request": "launch",
+            "mainClass": "algorithm.sort.InsertSort",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
