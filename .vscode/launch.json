@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxNum",
+            "request": "launch",
+            "mainClass": "algorithm.sort.MaxNum",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeSort",
             "request": "launch",
             "mainClass": "algorithm.sort.MergeSort",
