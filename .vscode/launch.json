@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Buttom",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupSix.Buttom",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lego",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupSix.Lego",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch B",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupSix.B",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupSix.A",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch Age",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupSix.Age",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch Travel",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupFive.Travel",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxNoMatch",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupFive.MaxNoMatch",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoCoupleA",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupFive.NoCoupleA",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiscoverCircle",
+            "request": "launch",
+            "mainClass": "lanqiaocup.CupFive.DiscoverCircle",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "dataStructure.Array.Test",
+            "projectName": "Leecode_e0c12e81"
+        },
+        {
+            "type": "java",
             "name": "Launch MaxNum",
             "request": "launch",
             "mainClass": "algorithm.sort.MaxNum",
